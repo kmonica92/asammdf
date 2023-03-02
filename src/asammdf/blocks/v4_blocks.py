@@ -2,7 +2,7 @@
 """
 classes that implement the blocks for MDF version 4
 """
-
+import re
 from __future__ import annotations
 
 from datetime import datetime, timedelta, timezone
